@@ -10,4 +10,5 @@
 -_ Branch models (in process) - Блокноты с Kaggle с обучением нейросетей
 
 Правила коммитов - feature_preprocessing/commit_rules
+
 Python -version: 3.12
